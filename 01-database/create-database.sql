@@ -24,6 +24,5 @@ VALUES
 ('Divya', 'Joshi', 'Operations', 'Logistics Coordinator', 51000.00);
 
 
-SELECT * FROM Employee;
 
 
